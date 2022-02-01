@@ -1,0 +1,17 @@
+{
+    "welcome": "Merhaba",
+    "welcomeUser": "Merhaba {}",
+    "loginText": "Giris Yapalım",
+    "loginWelcomeText": "Tekrar hosgeldin, seni çok özlemistik!",
+    "rememberMe": "Beni Hatırla",
+    "forgotPassword": "Şifremi Unuttum?",
+    "signInWithGoogle": "Google",
+    "haveAccount": "Bir hesabın yok mu?",
+    "register": "Kayıt Ol",
+    "login": {
+        "title": "Hosgeldiniz",
+        "signIn": "Giriş Yap"
+    },
+    "signInWithFacebook": "Facebook",
+    "or": "YA DA"
+}

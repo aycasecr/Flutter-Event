@@ -1,0 +1,17 @@
+{
+    "welcome": "Hello there",
+    "welcomeUser": "Hello there {}",
+    "loginText": "Let's log in",
+    "loginWelcomeText": "Welcome again, we missed you so much!",
+    "rememberMe": "Remember me",
+    "forgotPassword": "I forgot my password",
+    "signInWithGoogle": "Log in with Google",
+    "haveAccount": "Don't have an account?",
+    "register": "Register",
+    "login": {
+        "title": "Welcome",
+        "signIn": "Login"
+    },
+    "signInWithFacebook": "Log in with Facebook",
+    "or": "OR"
+}
