@@ -23,7 +23,7 @@ class _LoginFormFieldState extends State<LoginFormField> {
         child: Column(
           children: [
             BuildTextFormField(
-                textFormEmailField: _textFormEmailField, labelText: 'E-mail Adresi', hintText: 'example@mail.com'),
+                textFormEmailField: _textFormEmailField, labelText: 'E-mail Adresi', hintText: 'design@enesileri.com'),
             const SizedBox(height: 20),
             PasswordField(controller: _textFormPasswordField),
           ],

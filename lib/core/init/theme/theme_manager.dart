@@ -54,7 +54,7 @@ class ThemeManager {
           borderSide: const BorderSide(color: AppColors.borderGrey, width: 1.0),
           borderRadius: CircularBorderRadius.twelve()),
       errorBorder: OutlineInputBorder(
-          borderSide: const BorderSide(color: AppColors.borderGrey), borderRadius: CircularBorderRadius.twelve()),
+          borderSide: const BorderSide(color: AppColors.red), borderRadius: CircularBorderRadius.twelve()),
     ),
   );
 }
